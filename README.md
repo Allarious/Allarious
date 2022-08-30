@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+Hey there!
+
+I'm Alireza!
+
+Full-time Crypto researcher & Part-time smart contract auditor!
+
 <div>
   <a href="https://github.com/Allarious/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Allarious&theme=dracula&show_icons=true" />
