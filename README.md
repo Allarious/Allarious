@@ -14,5 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allarious&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Alireza Arjmand's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allarious&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://github.com/Allarious/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Allarious&theme=dracula&show_icons=true" />
+  </a>
+  <a href="https://github.com/Allarious/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allarious&theme=dracula&hide=MATLAB&langs_count=3" />
+  </a>
+</div>
