@@ -22,10 +22,10 @@ I'm Alireza!
 Full-time crypto researcher & part-time smart contract auditor 😄
 
 <div>
-  <a href="https://github.com/Allarious/github-readme-stats">
+  <a href="https://github.com/Allarious">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Allarious&theme=dracula&show_icons=true" />
   </a>
-  <a href="https://github.com/Allarious/convoychat">
+  <a href="https://github.com/Allarious">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allarious&theme=dracula&hide=MATLAB&langs_count=3" />
   </a>
 </div>
