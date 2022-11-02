@@ -29,3 +29,4 @@ Full-time Blockchain researcher & part-time smart contract auditor 😄
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allarious&theme=dracula&hide=MATLAB&langs_count=3" />
   </a>
 </div>
+
