@@ -19,7 +19,7 @@ Hey there!
 
 I'm Alireza!
 
-Full-time Blockchain researcher & part-time smart contract auditor 😄
+I'm a security researcher who enjoys auditing smart contracts and making web3 space safer 😄
 
 <div>
   <a href="https://github.com/Allarious">
